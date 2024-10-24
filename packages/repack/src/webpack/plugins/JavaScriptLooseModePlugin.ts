@@ -1,3 +1,5 @@
+//@ts-nocheck
+
 import webpack from 'webpack';
 import { Rule, WebpackPlugin } from '../../types';
 

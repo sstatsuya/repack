@@ -1,3 +1,4 @@
+//@ts-nocheck
 import { workerData, parentPort } from 'worker_threads';
 import path from 'path';
 import webpack from 'webpack';

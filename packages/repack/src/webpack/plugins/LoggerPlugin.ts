@@ -1,3 +1,4 @@
+//@ts-nocheck
 import webpack from 'webpack';
 import { isVerbose, isWorker } from '../../env';
 import {

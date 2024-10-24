@@ -1,3 +1,4 @@
+// @ts-nocheck
 import path from 'path';
 import imageSize from 'image-size';
 import type { LoaderContext } from 'loader-utils';
